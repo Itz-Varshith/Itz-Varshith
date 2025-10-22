@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-varshith&label=Profile%20views&color=0e75b6&style=flat" alt="itz-varshith" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itz-varshith" alt="itz-varshith" /></a> </p>
-
 - 🔭 I’m currently working on [Java + Spring Development and a production ready application for my college](https://github.com/Itz-Varshith/Pclub)
 
 - 🌱 I’m currently learning **Spring boot development and System design for real life problems**
